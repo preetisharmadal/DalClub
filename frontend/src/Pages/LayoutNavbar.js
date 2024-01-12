@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink, Outlet } from 'react-router-dom';
 import { Flex, Box, Text } from '@chakra-ui/react';
-import Navbar from '../Components/Navbar';
+import Navbar from '../Components/navbar';
 
 function LayoutNavbar() {
     return (
